@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E843AFFB-753A-4E0E-83FF-AF427CB6EDD7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Elec_Eduo_Mang.My.MyApplication</StartupObject>
+    <RootNamespace>Elec_Eduo_Mang</RootNamespace>
+    <AssemblyName>Elec Eduo Mang</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Elec Eduo Mang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Elec Eduo Mang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=0ed4c5f2bbf81ac0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Sunisoft\IrisSkin\Bin\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="department.Designer.vb">
+      <DependentUpon>department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="division.Designer.vb">
+      <DependentUpon>division.vb</DependentUpon>
+    </Compile>
+    <Compile Include="division.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logon.Designer.vb">
+      <DependentUpon>logon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="logon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.vb">
+      <DependentUpon>menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="recordmarks.Designer.vb">
+      <DependentUpon>recordmarks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="recordmarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recordsubject.Designer.vb">
+      <DependentUpon>recordsubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="recordsubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="room.Designer.vb">
+      <DependentUpon>room.vb</DependentUpon>
+    </Compile>
+    <Compile Include="room.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student.Designer.vb">
+      <DependentUpon>student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subjects.Designer.vb">
+      <DependentUpon>subjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="table.Designer.vb">
+      <DependentUpon>table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="users.Designer.vb">
+      <DependentUpon>users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="department.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="division.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>division.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logon.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>logon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recordmarks.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>recordmarks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recordsubject.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>recordsubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="room.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>room.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subjects.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>subjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="table.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="users.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>users.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flowenter.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elec educ mang21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_view_tile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_double.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\overlays.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vcard_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

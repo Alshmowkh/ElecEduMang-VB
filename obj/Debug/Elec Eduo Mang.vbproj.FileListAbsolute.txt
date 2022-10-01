@@ -1,0 +1,21 @@
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\bin\Debug\Elec Eduo Mang.exe.config
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec Eduo Mang.exe
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec Eduo Mang.xml
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec Eduo Mang.pdb
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\bin\Debug\Elec Eduo Mang.exe
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\bin\Debug\Elec Eduo Mang.pdb
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\bin\Debug\Elec Eduo Mang.xml
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.department.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.division.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.logon.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.home.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.Resources.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.recordmarks.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.recordsubject.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.room.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.student.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.subjects.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.table.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec_Eduo_Mang.users.resources
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec Eduo Mang.vbproj.GenerateResource.Cache
+D:\Dell Old\najm (D)\design\مشاريع 2010\الإدارة التعليمية الإلكترونية\Elec Eduo Mang\Elec Eduo Mang\obj\Debug\Elec Eduo Mang.vbprojResolveAssemblyReference.cache

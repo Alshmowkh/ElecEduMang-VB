@@ -1,0 +1,20 @@
+obj\Debug\Elec Eduo Mang.exe
+obj\Debug\Elec Eduo Mang.xml
+obj\Debug\Elec Eduo Mang.pdb
+bin\Debug\Elec Eduo Mang.exe
+bin\Debug\Elec Eduo Mang.pdb
+bin\Debug\Elec Eduo Mang.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Elec_Eduo_Mang.home.resources
+obj\Debug\Elec_Eduo_Mang.Resources.resources
+obj\Debug\Elec Eduo Mang.vbproj.GenerateResource.Cache
+obj\Debug\Elec_Eduo_Mang.student.resources
+obj\Debug\Elec_Eduo_Mang.subjects.resources
+obj\Debug\Elec_Eduo_Mang.division.resources
+obj\Debug\Elec_Eduo_Mang.department.resources
+obj\Debug\Elec_Eduo_Mang.recordsubject.resources
+obj\Debug\Elec_Eduo_Mang.recordmarks.resources
+obj\Debug\Elec_Eduo_Mang.table.resources
+obj\Debug\Elec_Eduo_Mang.room.resources
+obj\Debug\Elec_Eduo_Mang.logon.resources
+obj\Debug\Elec_Eduo_Mang.users.resources
